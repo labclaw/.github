@@ -29,6 +29,7 @@ Layer 1  HARDWARE   Device Registry, Safety Checker, Protocol Adapters
 | Project | Description |
 |---------|-------------|
 | [**labclaw**](https://github.com/labclaw/labclaw) | Core platform — Python 3.11+, Apache 2.0 |
+| [**device-use**](https://github.com/labclaw/device-use) | Like browser-use, but for scientific instruments — AI agents operate any device through its GUI |
 | [**awesome-physical-ai-for-science**](https://github.com/labclaw/awesome-physical-ai-for-science) | Curated list of AI systems for scientific laboratories |
 
 
