@@ -30,6 +30,10 @@ Layer 1  HARDWARE   Device Registry, Safety Checker, Protocol Adapters
 |---------|-------------|
 | [**labclaw**](https://github.com/labclaw/labclaw) | Core platform — Python 3.11+, Apache 2.0 |
 | [**device-use**](https://github.com/labclaw/device-use) | Like browser-use, but for scientific instruments — AI agents operate any device through its GUI |
+| [**device-skills**](https://github.com/labclaw/device-skills) | Modular, standardized device skills for labclaw & device-use |
+| [**labwork-web**](https://github.com/labclaw/labwork-web) | Minimal standalone web UI for LabClaw ecosystem |
+| [**lab-manager**](https://github.com/labclaw/lab-manager) | AI lab manager |
+| [**dollar-lab**](https://github.com/labclaw/dollar-lab) | Reproducible demo: AI autonomously optimizes two-photon microscopy via closed-loop control |
 | [**awesome-physical-ai-for-science**](https://github.com/labclaw/awesome-physical-ai-for-science) | Curated list of AI systems for scientific laboratories |
 
 
